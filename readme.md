@@ -1,4 +1,2 @@
-# 用原生webgl打造的简单第一人称射击类游戏
-
-## 简单介绍
-[AlloyTeam](http://www.alloyteam.com)
+# MyWebFPS
+Unity 制作的3D枪战游戏，支持12种枪械，6种敌人，3种场景
